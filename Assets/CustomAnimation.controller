@@ -60,7 +60,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.27101648
+  m_TransitionDuration: 0.1546408
   m_TransitionOffset: 0
   m_ExitTime: 0.26727384
   m_HasExitTime: 0
@@ -1220,7 +1220,7 @@ AnimatorStateMachine:
     m_Position: {x: 980, y: 10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6607964671860954803}
-    m_Position: {x: 840, y: -410, z: 0}
+    m_Position: {x: 830, y: -320, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -1248,9 +1248,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.24999996
+  m_TransitionDuration: 0.11128709
   m_TransitionOffset: 0
-  m_ExitTime: 0.22140205
+  m_ExitTime: 0.17100105
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -1641,7 +1641,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Sheathe 0
-  m_Speed: -1.5
+  m_Speed: -3
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 141049566379240478}
